@@ -1,0 +1,29 @@
+Ajax技术、流行Ajax框架技术 
+SSH框架技术(Struts 1.x/2.x + Spring + Hibernate) 
+JSF2（新技术）框架技术 
+WebService和SOA技术 
+Junit单元测试技术 
+各种浏览器事件模型等DHTML知识
+Apache Tomcat，Jetty，Resin等服务器。JSP语法，Servlet、Session和Cookie，标签库和JSTL，Filter和Listener，JSP2.0表达式语言(EL)、自定义函数，MVC模式，DAO模式。
+
+XML知识
+XML基础,DTD,SchemaXSLT,XPATH,Xquery和Java中常见的XML解析方法
+xml数据交互技术
+
+
+Ajax
+Ajax基础、XMLHttpRequest属性及方法，异步请求，动态加载服务器响应。详细介绍Prototype.js，Dojo，DWR，JSON-RPC-JAVA，AjaxTags5个J2EE领域的Ajax框架
+
+
+J2EE的报表系统
+报表的作用，常用的报表工具，包括POI，Jexcel，iText，和JasperReport等
+
+
+Java多线程编程、网络编程
+建立线程的基本概念，学习Java多线程编程、线程间通信、线程同步等程序设计方法，掌握线程死锁应对的基本方法，对Java网络编程有深入理解。对基UDP/TCP协议的java编程进行学习。
+深刻理解Java多线程机制和网络编程方法。
+
+
+统一建模语言UML、JUDE 设计工具、Class 类图、类之间关系设计、CMMI 标准过程管理、CMMI 标准过程管理、CVS版本控制工具	
+学习软件的设计的建模语言UML，先设计再编码、学习软件开发过程中的标准工业化流程，及代码版本控制管理
+Uml设计图练习软件开发设计、CVS的使用

@@ -1,0 +1,69 @@
+Atitit.互联网 软件编程 数据库方面 架构 大牛 牛人 attilax总结
+
+Coolshell 称号。理论与c++
+阮一峰：： 理论高手与js高手
+王银：理论高手
+赵劼，网名老赵，c#高手 与理论
+洋名Jeffrey Zhao，花名赵姐夫，金融行业程序员，目前就职于摩根大通（香港）。多年微软MVP，InfoQ中文站兼职编辑。
+Javaeye创始人Robbin  
+当然我在扯淡-王垠的个人博文集。王垠的文风很犀利，很多观点发人深省！
+结构之法 算法之道 - 博客频道 - CSDN.NET.html
+
+
+
+Attilax：多面手
+作者:: 绰号:老哇的爪子 （ 全名：：Attilax Akbar Al Rapanui 阿提拉克斯 阿克巴 阿尔 拉帕努伊 ） 汉字名：艾龙，  EMAIL:1466519819@qq.com
+转载请注明来源： http://blog.csdn.net/attilax
+
+软件理论的搜集与发明，最新设计模式等，开发方法与模式.架构设计。热衷与标准化，对跨语言跨平台跨bs cs架构 互操作方面丰富经验
+
+
+编程语言方面 提出uapi标准化，提供了java c# c++ js php sql语言源码级别的移植性与转换，dsl方面成就斐然。
+
+数据存储方面扩展sql与linq，提供对语言集合对象，网络，html表格 数据库方面提供一致的数据存取界面，有着自己的面向对象与多媒体数据库引擎实现
+
+总结：：大牛们一般都理论基础深厚包括架构，标志是可以发明自己的的架构与设计模式与开发理论。。对语言方面精通，标志就是可以发明自己的编程语言。。对数据库精通，标志是可以发明自己的数据库。。同时对跨语言标准化工作，标志是可以指定标准化工作组草案 。甚至对自然语言精通，标识是可以发明人类自然语言与文字。。
+
+其他重要的it技术博客地址
+	
+伯乐在线博客 是一个IT互联网职业社区。为IT互联网行业的企业和个人提供服务。网站目前包括：博客、聚合资讯、小组、资源/工具导航 和编程挑战。
+	
+伯乐在线-博客( blog.JobBole.com )专注于分享职业相关的博客文章、业界资讯和职业相关的优秀工具和资源。博文类别包括：程序员、设计、营销、互联网、IT技术、自由职业、创业、运营、管理、翻译和人力资源等等
+	
+伯乐在线个是纯各种干货的资源集结地，包含IT业内各种技术、职场等等内容的分享。博客文章质量非常高，非常值得经常阅读。
+	
+	
+内存溢出 ——代码分享 技术聚客 为程序员服务。主要栏目有：技术专栏，技术教程，代码，聚客等，网站内容及其丰富。
+	
+OutOfMemory(内存溢出)是一个程序员常见的错误类型，我们的网站依此为名寓意是一个程序员资料分享，编程技术交流的网站。
+	
+	
+码农周刊 —— 一份专为程序员打造的IT技术周刊。同为其运营的还有开发者头条。
+	
+	
+InfoQ - 促进软件开发领域知识与创新的传播
+	
+Java技术
+ImportNew - 专注Java & Android 技术分享。强烈推荐！
+ProgramCreek.com
+Java Tutorial - Tutorial on Java, Android, Design Patterns, Spring, Web ServicesJava Tutorial
+智慧演绎，无处不在
+deepinmind的技术博客 - Java译站
+唐尤华 - 博客园
+Dead Code Rising
+三石·道 —— 三石的生活感悟和技术博客
+HollisChuang's Blog
+Thoughts About Various Backend Development Topics
+
+Other
+Latest Posts • cenalulu's Tech Blog.html
+后端技术 by Tim Yang.html
+四火的唠叨.html
+云风的 BLOG.html
+Lucida.html
+我爱自然语言处理 _ I Love Natural Language Processing.html
+
+
+
+
+

@@ -1,0 +1,64 @@
+Atitit 知识管理的重要方法 数据来源，聚合，分类，备份，发布 搜索
+
+	1.1. Rss 简易信息聚合（也叫聚合内容 Really Simple Syndication	1
+
+Rss 简易信息聚合（也叫聚合内容 Really Simple Syndication
+什么是RSS    联合供稿（Syndication）
+
+RSS是英文Rich Site Summary(丰富站点摘要) 缩写或者Really Simple Syndication(真正简单的整合，对rss2.0而言，是这三个词的缩写，对rss1.0而言则是RDF Site Summary的缩写，1.0与2.0走的是两个体系）的首字母缩写，是一种用于共享新闻标题和其他Web内容的XML格式。
+
+
+RSS起源于20世纪90年代后期，最初是Netscape对Microsoft公司的Internet Explorer做出的回应。IE 4刚刚推出来的时候有一个有趣的功能，那就是“新闻频道”，为此Netscape 定义了一套描述新闻频道的语言，这就是RSS，只不过Netscape自当时起就每况愈下，所以最终也没有发布一个正式的RSS规范（只发布了一个0.9版本）。
+
+后来，RSS技术被著名的博客Dave Winner的UserLand软件公司所接手，继续开发新的版本，以适应新的网络应用博客的需要
+
+
+Ompl  Outline Processor Markup Language  大纲处理标记语言;
+
+
+Atom = a format similar to RSS; like RSS the files may alsobecalled feeds or channels (Atom，一种与RSS类似的格式，也可以被称为提要) 
+
+
+RDF = Resource Discovery Framework =RSS 1.0版本格式 
+
+rss feed
+简单说，Feed是消息源，也就是这个页面提供一些信息，比如：http://www.yanglongji.com/feed/，这个就是我博客的消息源页面。而Rss是一种Feed的格式。常用的feed格式有RSS、Atom两种。
+
+
+替代rss的目前tweiiter
+
+不支持rss的怎么办，适用爬虫爬去吧。
+
+
+ZAKER的CEO，他在接受《IT时报》记者采访时直言，自己从GR身上汲取了不少灵感，设计出了ZAKER，取名脱胎于magazine，也是希望给用户杂志化的阅读方式。ZAKER与很多媒体都进行了免费内容合作，用户不再需要繁琐地一个个添加RSS源，“80%的内容都为用户准备好了”，用户按照自己的意愿进行定制。
+
+
+RSS和Atom的技术标准之争
+
+当Google宣布其Blogger服务放弃RSS格式而选择了另一种技术Atom时，此举进一步加剧了这一技术的标准之争。 
+搜索巨头Google在收购了Blogger.com后，开始允许用户向其他网站共享其在线日记，并选择新的Atom格式而非过去的RSS。Atom格式是RSS的一种替代格式，由IBM的工程师SamRuby提出。 
+现在一些网站同时提供RSS和Atom源，如Yahoo的MyYahoo就是如此
+
+
+作者:: 绰号:老哇的爪子claw of Eagle 偶像破坏者Iconoclast image-smasher
+捕鸟王"Bird Catcher 王中之王King of Kings 虔诚者Pious 宗教信仰捍卫者 Defender Of the Faith. 卡拉卡拉红斗篷 Caracalla red cloak
+简称：： Emir Attilax Akbar 埃米尔 阿提拉克斯 阿克巴
+全名：：Emir Attilax Akbar bin Mahmud bin  attila bin Solomon bin adam Al Rapanui 埃米尔 阿提拉克斯 阿克巴 本 马哈茂德 本 阿提拉 本 所罗门 本亚当  阿尔 拉帕努伊
+常用名：艾提拉（艾龙），  EMAIL:1466519819@qq.com
+
+
+头衔：uke总部o2o负责人，全球网格化项目创始人，
+uke宗教与文化融合事务部部长， uke宗教改革委员会副主席
+，Uke部落首席大酋长，
+uke制度与重大会议委员会委员长，uke保安部首席大队长,uke制度检查委员会副会长，
+奶牛科技cto ，uke 首席cto 
+uke波利尼西亚区大区连锁负责人，克尔格伦群岛区连锁负责人，莱恩群岛区连锁负责人，uke汤加王国区域负责人。布维岛和南乔治亚和南桑威奇群岛大区连锁负责人 
+ Uke软件标准化协会理事长理事长 uke终身教育学校副校长 
+Uke 数据库与存储标准化协会副会长 uke出版社编辑总编
+Uke医院方面的创始人
+
+转载请注明来源：attilax的专栏  ?http://blog.csdn.net/attilax
+--Atiend
+
+
+
